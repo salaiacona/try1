@@ -6,3 +6,4 @@
 
 does it work also in this way?
 
+print("Hello word")
